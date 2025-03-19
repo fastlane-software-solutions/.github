@@ -1,3 +1,2 @@
 ## Fastlane Software Solutions
-
-<!-- TODO: Add banner image-->
+![alt text](./banner.png)
